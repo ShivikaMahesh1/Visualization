@@ -52,6 +52,7 @@ Following DAX expression was written for the same,
         
  
  - Step 13 : A relationship between two Excel files was formed using cardinality many to many.
+<img width="523" alt="image" src="https://github.com/user-attachments/assets/8dc924bf-210e-4afc-9636-a80848008640">
 
  - Step 14 : The report was then Saved to Power BI desktop as a PBIX file.
 
