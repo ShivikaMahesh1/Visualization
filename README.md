@@ -103,7 +103,7 @@ Following inferences can be drawn from the dashboard;
  
  1.3) 1M spent by each Chandigarh & Punjab.
  
-         thus, maximum ad spends are .
+         thus, maximum ad spends are 7M by Haryana.
  
  ### Enquiries by State
  
