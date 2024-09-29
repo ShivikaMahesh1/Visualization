@@ -41,8 +41,7 @@ Since, the number of retail is only 2000 for 39000 enquiries generated through d
 
 - Step 11 : A new column highlighting conversion rate ie- Retail/ Enquiry percentage was created.
 Snap of new calculated column ,
-
-![Snap_1] img width="41" alt="newcol" src="https://github.com/user-attachments/assets/2c8aba6b-eb0f-4646-b075-ae2b6b299f67"
+<img width="41" alt="newcol" src="https://github.com/user-attachments/assets/2c8aba6b-eb0f-4646-b075-ae2b6b299f67">
 
 
 - Step 12 : New measure was created to find average CPL.
