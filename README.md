@@ -62,6 +62,7 @@ Following DAX expression was written for the same,
 
  https://github.com/ShivikaMahesh1/Visualization/issues/2#issue-2554894260
 
+<img width="689" alt="image" src="https://github.com/user-attachments/assets/7906245a-fd80-4953-b082-b7c959b85f78">
 
 
 # Insights
